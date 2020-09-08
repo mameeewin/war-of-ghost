@@ -1,5 +1,5 @@
  
-
+https://makecode.com/_9j3a6kV146Pz
 
 > Open this page at [https://mameeewin.github.io/war-of-ghost/](https://mameeewin.github.io/war-of-ghost/)
 
